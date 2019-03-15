@@ -1,0 +1,18 @@
+You need the following packages to execute the MIO-TCD dataset python 3.5.2 code:
+
+Sklearn
+Scipy
+tqdm
+numpy
+OpenCV
+
+Suggestion for having a python code compliant with the MIO-TCD dataset:
+
+1. Download and install miniconda (if not already available): 
+http://conda.pydata.org/miniconda.html
+
+2. Create a conda environment with python 3.5.2
+conda create -c conda-forge -n miotcd python=3.5.2 numpy scikit-learn tqdm  scipy
+
+You should now have a conda environment called “miotcd” which you can activate with
+source activate miotcd
