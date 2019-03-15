@@ -1,4 +1,4 @@
-### MIO-TCD-classification
+# MIO-TCD-classification
 Details of the MIO-TCD dataset
 The dataset consists of total 786,702 images with 648,959 in the classification dataset and 137,743 in the localization dataset acquired at different times of the day and different periods of the year by thousands of traffic cameras deployed all over Canada and the United States. Those images have been selected to cover a wide range of challenges and are representative of typical visual data captured today in urban traffic scenarios. Each moving object has been carefully identified by nearly 200 persons to enable a quantitative comparison and ranking of various algorithms. This dataset aims to provide a rigorous benchmarking facility for training and testing existing and new algorithms for the classification and localization of moving vehicles in traffic scenes
 The dataset is divided in two parts : the “classification challenge dataset” and the “localization challenge dataset”.
